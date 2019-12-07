@@ -12,4 +12,10 @@ Conheça abaixo a página inicial do FinanceControl:
 
 ![](https://github.com/ediopedrocode/Projeto-FinanceControl/blob/master/Imagens%20do%20Manual/intro1.png)
 
-Para começar, aqui você pode adicionar sua primeira compra com as informações de nome do produto, 
+Para começar, aqui você pode adicionar sua primeira compra com as informações de nome do produto, preço, quantidade, local de compra e data da compra.
+
+Acompanhe o exemplo abaixo:
+
+![inserindo](https://github.com/ediopedrocode/Projeto-FinanceControl/blob/master/Imagens%20do%20Manual/inserir2.png)
+
+
