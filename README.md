@@ -126,7 +126,6 @@ Porém, para a sua segurança antes de carregá-lo, perguntaremos se você desej
 
 Caso não, você perderá o documento atual e irá diretamente para seu gerenciador de arquivos para poder escolher o que deseja abrir. Caso sim, antes de carregar, você poderá escolher a pasta e o nome do novo arquivo que está salvando dentro do seu gerenciador de arquivos. 
 
-#### FIM.
 
 # Obrigado por usar o FinanceControl, seu assistente financeiro!
 
