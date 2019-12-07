@@ -87,8 +87,6 @@ Ao ir na aba "Obter Sugestão" e pesquisar por "Bateria 9V", o seguinte acontece
 
 ![](https://github.com/ediopedrocode/Projeto-FinanceControl/blob/master/Imagens%20do%20Manual/sugestao17.png)
 
-Aí está a sugestão:
-
 Caso o produto tenha sido comprado uma única vez, disponibilizamos algumas informações dessa compra. Veja:
 
 ![](https://github.com/ediopedrocode/Projeto-FinanceControl/blob/master/Imagens%20do%20Manual/sugestao18.png)
@@ -105,7 +103,7 @@ Na opção "Arquivo" temos três opções: Novo, Salvar e Carregar.
 
 ![](https://github.com/ediopedrocode/Projeto-FinanceControl/blob/master/Imagens%20do%20Manual/arq20.png)
 
-##### Novo
+#### Novo
 
 Ao selecionar "Novo", você será perguntado se deseja salvar o arquivo atual antes de começar um novo. 
 
@@ -115,14 +113,37 @@ Caso não, o FinanceControl irá começar um cadastro do zero, sem salvar o que 
 
 É importante ressaltar que o FinanceControl já salva o arquivo em formato .csv automaticamente. Logo, você não precisa se preocupar em escrever a extensão do arquivo, basta pôr o nome.
 
-##### Salvar
+#### Salvar
 
 A ação "Salvar", diferentemente da ação "Novo", não recomeça o cadastro do zero. Ela apenas salva o arquivo em sua memória, após você selecionar a pasta e o nome, mas mantém os dados no FinanceControl. Lembrando que nessa ação o arquivo também é salvo automaticamente em .csv sem precisar digitar a extensão.
 
-##### Carregar
+#### Carregar
 
-A ação carre
+A ação carregar irá abrir um arquivo já salvo em sua memória, pôr na tabela, e atualizar automaticamente as estatísticas.
+Porém, para a sua segurança antes de carregá-lo, perguntaremos se você deseja salvar o cadastro em andamento. O processo é similar ao da função "Novo". A seguinte mensagem aparece: 
 
+![](https://github.com/ediopedrocode/Projeto-FinanceControl/blob/master/Imagens%20do%20Manual/carrega20.png)
+
+Caso não, você perderá o documento atual e irá diretamente para seu gerenciador de arquivos para poder escolher o que deseja abrir. Caso sim, antes de carregar, você poderá escolher a pasta e o nome do novo arquivo que está salvando dentro do seu gerenciador de arquivos. 
+
+#### FIM.
+
+# Obrigado por usar o FinanceControl, seu assistente financeiro!
+
+
+### Informações do desenvolvedor:
+
+##### Desenvolvido por: Édio Pedro Belo de Melo
+
+##### Ferramenta de desenvolvimento: Qt Creator
+
+#### Entre em contato e dê seu FeedBack:
+
+##### E-mail: ediopedro22@gmail.com
+
+##### Celular: (083) 98856-4102
+
+##### João Pessoa - PB, Brasil.
 
 
 
