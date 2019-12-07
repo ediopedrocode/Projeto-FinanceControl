@@ -131,19 +131,19 @@ Caso não, você perderá o documento atual e irá diretamente para seu gerencia
 # Obrigado por usar o FinanceControl, seu assistente financeiro!
 
 
-### Informações do desenvolvedor:
+## Informações do desenvolvedor:
 
-##### Desenvolvido por: Édio Pedro Belo de Melo
+#### Desenvolvido por: Édio Pedro Belo de Melo
 
-##### Ferramenta de desenvolvimento: Qt Creator
+#### Ferramenta de desenvolvimento: Qt Creator
 
-#### Entre em contato e dê seu FeedBack:
+## Entre em contato e dê seu FeedBack:
 
-##### E-mail: ediopedro22@gmail.com
+#### E-mail: ediopedro22@gmail.com
 
-##### Celular: (083) 98856-4102
+#### Celular: (083) 98856-4102
 
-##### João Pessoa - PB, Brasil.
+#### João Pessoa - PB, Brasil.
 
 
 
