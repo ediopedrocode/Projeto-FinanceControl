@@ -124,10 +124,12 @@ Porém, para a sua segurança antes de carregá-lo, perguntaremos se você desej
 
 ![](https://github.com/ediopedrocode/Projeto-FinanceControl/blob/master/Imagens%20do%20Manual/carrega20.png)
 
-Caso não, você perderá o documento atual e irá diretamente para seu gerenciador de arquivos para poder escolher o que deseja abrir. Caso sim, antes de carregar, você poderá escolher a pasta e o nome do novo arquivo que está salvando dentro do seu gerenciador de arquivos. 
+Caso não, você perderá o documento atual e irá diretamente para seu gerenciador de arquivos para poder escolher o que deseja abrir. Caso sim, antes de carregar, você poderá escolher a pasta e o nome do novo arquivo que está salvando dentro do seu gerenciador de arquivos, e posteriormente abrir um novo arquivo da memória.
+
+Fim do manual.
 
 
-# Obrigado por usar o FinanceControl, seu assistente financeiro!
+# Obrigado por usar o FinanceControl, o seu assistente financeiro!
 
 
 ## Informações do desenvolvedor:
